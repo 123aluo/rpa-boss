@@ -1,7 +1,8 @@
-# chrome-boss
+# rpa-boss
 BOSS直聘 RPA智能招聘助手
 ## 下载
-v1.0.0:[点击下载](https://github.com/browserplugin/rpa-boss/releases/download/1.0.0/rpa-boss-chrome-extension_v1.0.0.zip)
+### v1.0.0
+[点击下载](https://github.com/browserplugin/rpa-boss/releases/download/1.0.0/rpa-boss-chrome-extension_v1.0.0.zip)
 ## 安装
 [谷歌浏览器怎么离线安装插件](https://jingyan.baidu.com/article/d169e186966d14026711d85a.html)
 ## 功能说明
