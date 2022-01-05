@@ -11,6 +11,7 @@ v1.0.0:[点击下载](https://github.com/browserplugin/rpa-boss/releases/downloa
 ## 使用说明
 ### 列表快速筛选模式：
 ![image](https://raw.githubusercontent.com/browserplugin/rpa-boss/main/images/introduction_1.png)
+
 第一步：打开**推荐牛人**页面
 第二步：设置**筛选条件**
 第三步：
@@ -18,6 +19,7 @@ v1.0.0:[点击下载](https://github.com/browserplugin/rpa-boss/releases/downloa
   自动筛选：点击**自动打招呼**，自动根据筛选条件进行筛选和打招呼。
 ### 详细页面筛选模式
 ![image](https://raw.githubusercontent.com/browserplugin/rpa-boss/main/images/introduction_2.png)
+
 第一步：打开**筛选牛人**页面
 第二步：点击**牛人列表**进入**详情页**
 第三步：设置**筛选条件**
