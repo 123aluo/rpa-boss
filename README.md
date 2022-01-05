@@ -13,7 +13,7 @@ BOSS直聘 RPA智能招聘助手
 3.自动打招呼
 ## 使用说明
 ### 列表快速筛选模式：
-![image](https://raw.githubusercontent.com/browserplugin/rpa-boss/main/images/introduction_1.png)
+![image](https://github.com/browserplugin/rpa-boss/blob/main/images/introduction_1.png)
 
 第一步：打开**推荐牛人**页面
 
