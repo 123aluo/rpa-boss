@@ -26,6 +26,7 @@ v1.0.0:[点击下载](https://github.com/browserplugin/rpa-boss/releases/downloa
   
 ### 详细页面筛选模式
 与列表页模式相比，可以跳过同事打招呼的牛人，关键词匹配内容更多
+
 ![image](https://raw.githubusercontent.com/browserplugin/rpa-boss/main/images/introduction_2.png)
 
 第一步：打开**筛选牛人**页面
